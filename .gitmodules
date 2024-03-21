@@ -16,3 +16,6 @@
 [submodule "submodules/fibonacci-series"]
 	path = submodules/fibonacci-series
 	url = https://github.com/mohmmadAyesh/fibonacci-series.git
+[submodule "submodules/html-duration-picker.js"]
+	path = submodules/html-duration-picker.js
+	url = https://github.com/mohmmadAyesh/html-duration-picker.js.git
