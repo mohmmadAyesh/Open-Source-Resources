@@ -1,0 +1,18 @@
+[submodule "submodules/rawsec-cybersecurity-inventory"]
+	path = submodules/rawsec-cybersecurity-inventory
+	url = https://github.com/mohmmadAyesh/rawsec-cybersecurity-inventory
+[submodule "submodules/sharer.js"]
+	path = submodules/sharer.js
+	url = https://github.com/mohmmadAyesh/sharer.js
+[submodule "submodules/geeksay"]
+	path = submodules/geeksay
+	url = https://github.com/mohmmadAyesh/geeksay
+[submodule "submodules/PetMe"]
+	path = submodules/PetMe
+	url = https://github.com/mohmmadAyesh/PetMe
+[submodule "submodules/BeforeIDieAchievements"]
+	path = submodules/BeforeIDieAchievements
+	url = https://github.com/mohmmadAyesh/BeforeIDieAchievements
+[submodule "submodules/fibonacci-series"]
+	path = submodules/fibonacci-series
+	url = https://github.com/mohmmadAyesh/fibonacci-series.git
