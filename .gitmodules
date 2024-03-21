@@ -25,3 +25,6 @@
 [submodule "submodules/ideahub"]
 	path = submodules/ideahub
 	url = https://github.com/mohmmadAyesh/ideahub.git
+[submodule "submodules/hacktoberfest"]
+	path = submodules/hacktoberfest
+	url = https://github.com/mohmmadAyesh/hacktoberfest.git
