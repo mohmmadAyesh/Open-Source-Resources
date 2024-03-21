@@ -22,3 +22,6 @@
 [submodule "submodules/guess-game"]
 	path = submodules/guess-game
 	url = https://github.com/mohmmadAyesh/guess-game.git
+[submodule "submodules/ideahub"]
+	path = submodules/ideahub
+	url = https://github.com/mohmmadAyesh/ideahub.git
